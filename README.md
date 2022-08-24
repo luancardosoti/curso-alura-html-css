@@ -1,5 +1,6 @@
 # Projeto do curso de HTML5 e CSS3 da Alura
-<p>O curso de HTML e CSS da alura é dividido em 4 partes,e este repositóprio contem o projeto desenvolvido após finalizar todas as 4 partes do curso</p>
+<p>O curso de HTML e CSS da alura é dividido em 4 partes,e este repositóprio contem o projeto desenvolvido após finalizar todas as 4 partes do curso.</p>
+<p>Link do projeto: <a href="https://luancardosoti.github.io/curso-alura-html-css/">https://luancardosoti.github.io/curso-alura-html-css/</a></p>
 
 ## Aprendizado da parte 1
 * Estrutura básica do html
